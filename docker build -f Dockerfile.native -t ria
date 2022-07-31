@@ -1,0 +1,2 @@
+docker build -f Dockerfile.native  -t rianmachado/quarkus-producer-reactive-messaging-kafka:v1 .
+docker build -f Dockerfile.native  -t rianmachado/quarkus-consumer-reactive-messaging-kafka:v1 .
